@@ -1,0 +1,4 @@
+djangoquickstart
+================
+
+Django project
